@@ -11,4 +11,6 @@ A place to keep track of my unique solutions and encourage future learning and r
 
 | Problem                               | Difficulty       | Category            | Solution Link                                                        |
 | ------------------------------------- | ---------------- | ------------------- | -------------------------------------------------------------------- |
-| Two Number Sum                        | 🟢               | Arrays              | [Program.java](src/Easy)                    | 
+| Two Number Sum                        | 🟢               | Arrays              | [Program.java](src/Easy/TwoNumberSum/Solution.java)                    | 
+| Validate Subsequence                  | 🟢               | Arrays              | [Program.java](src/Easy/ValidateSubsequence/Solution.java)                    | 
+| Sorted Squared Array                  | 🟢               | Arrays              | [Program.java](src/Easy/SortedSquaredArray/Solution.java)                    | 
