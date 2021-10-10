@@ -13,7 +13,8 @@ A place to keep track of my unique solutions and encourage future learning and r
 
 | Problem                               | Difficulty       | Category            | Solution Link                                                        |
 | ------------------------------------- | ---------------- | ------------------- | -------------------------------------------------------------------- |
-| Two Number Sum                        | 🟢               | Arrays              | [CODE](src/Easy/TwoNumberSum/Solution.java)                    | 
-| Validate Subsequence                  | 🟢               | Arrays              | [CODE](src/Easy/ValidateSubsequence/Solution.java)                    | 
-| Sorted Squared Array                  | 🟢               | Arrays              | [CODE](src/Easy/SortedSquaredArray/Solution.java)                    | 
-| Tournament Winner                 | 🟢               | ArrayLists              | [CODE](src/Easy/TournamentWinner/Solution.java)                    | 
+| Two Number Sum                        | 🟢               | Arrays              | [CODE](src/Easy/TwoNumberSum)                    | 
+| Validate Subsequence                  | 🟢               | Arrays              | [CODE](src/Easy/ValidateSubsequence)                    | 
+| Sorted Squared Array                  | 🟢               | Arrays              | [CODE](src/Easy/SortedSquaredArray)                    | 
+| Tournament Winner                 | 🟢               | ArrayLists              | [CODE](src/Easy/TournamentWinner)                    | 
+| Non-Constructable Change                 | 🟢               | Arrays             | [CODE](src/Easy/NonConstructableChange)                    | 
