@@ -23,3 +23,4 @@ A place to keep track of my unique solutions and encourage future learning and r
 | Node Depths                           | 🟢               | BST                 | [CODE](src/Easy/NodeDepths)                                          | 
 | Depth-first Search                    | 🟢               | BST/DFS             | [CODE](src/Easy/DepthFirstSearch)                                    | 
 | Minimum Waiting Time                  | 🟢               | Arrays              | [CODE](src/Easy/MinimumWaitingTime)                                  | 
+| Class Photos                          | 🟢               | ArrayLists          | [CODE](src/Easy/ClassPhotos)                                         | 
