@@ -13,8 +13,9 @@ A place to keep track of my unique solutions and encourage future learning and r
 
 | Problem                               | Difficulty       | Category            | Solution Link                                                        |
 | ------------------------------------- | ---------------- | ------------------- | -------------------------------------------------------------------- |
-| Two Number Sum                        | 🟢               | Arrays              | [CODE](src/Easy/TwoNumberSum)                    | 
-| Validate Subsequence                  | 🟢               | Arrays              | [CODE](src/Easy/ValidateSubsequence)                    | 
-| Sorted Squared Array                  | 🟢               | Arrays              | [CODE](src/Easy/SortedSquaredArray)                    | 
-| Tournament Winner                 | 🟢               | ArrayLists              | [CODE](src/Easy/TournamentWinner)                    | 
-| Non-Constructable Change                 | 🟢               | Arrays             | [CODE](src/Easy/NonConstructableChange)                    | 
+| Two Number Sum                        | 🟢               | Arrays              | [CODE](src/Easy/TwoNumberSum)                                        | 
+| Validate Subsequence                  | 🟢               | Arrays              | [CODE](src/Easy/ValidateSubsequence)                                 | 
+| Sorted Squared Array                  | 🟢               | Arrays              | [CODE](src/Easy/SortedSquaredArray)                                  | 
+| Tournament Winner                     | 🟢               | ArrayLists          | [CODE](src/Easy/TournamentWinner)                                    | 
+| Non-Constructable Change              | 🟢               | Arrays              | [CODE](src/Easy/NonConstructableChange)                              | 
+| Closest Value In BST                  | 🟢               | BST                 | [CODE](src/Easy/ClosestValueInBST)                                   | 
