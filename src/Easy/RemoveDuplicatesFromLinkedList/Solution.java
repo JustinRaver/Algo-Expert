@@ -10,23 +10,13 @@ public class Solution {
      * Each LinkedList node has an integer value as well as a next node pointing to the next node in the list or to
      * None/null if its the tail of the list
      */
-    // This is an input class. Do not edit.
-    public static class LinkedList {
-        public int value;
-        public LinkedList next;
-
-        public LinkedList(int value) {
-            this.value = value;
-            this.next = null;
-        }
-    }
 
     public LinkedList removeDuplicatesFromLinkedList(LinkedList linkedList) {
         LinkedList previous = linkedList;
         LinkedList current = linkedList.next;
 
-        while(current != null){
-            if(current.value == previous.value){
+        while (current != null) {
+            if (current.value == previous.value) {
                 previous.next = current.next;
 
                 current = previous.next;
@@ -36,5 +26,15 @@ public class Solution {
             current = current.next;
         }
         return linkedList;
+    }
+
+    public static class LinkedList {
+        public int value;
+        public LinkedList next;
+
+        public LinkedList(int value) {
+            this.value = value;
+            this.next = null;
+        }
     }
 }
