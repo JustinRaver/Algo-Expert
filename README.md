@@ -28,3 +28,4 @@ A place to keep track of my unique solutions and encourage future learning and r
 | Remove Duplicates From Linked List    | 🟢               | Linked List         | [CODE](src/Easy/RemoveDuplicatesFromLinkedList)                      | 
 | Get Nth Fibonacci                     | 🟢               | Recursion           | [CODE](src/Easy/GetNthFibonacci)                                     | 
 | Product Sum                           | 🟢               | Recursion           | [CODE](src/Easy/ProductSum)                                          | 
+| Binary Search                         | 🟢               | Binary Search       | [CODE](src/Easy/BinarySearch)                                        | 
