@@ -30,3 +30,4 @@ A place to keep track of my unique solutions and encourage future learning and r
 | Product Sum                           | 🟢               | Recursion           | [CODE](src/Easy/ProductSum)                                          | 
 | Binary Search                         | 🟢               | Binary Search       | [CODE](src/Easy/BinarySearch)                                        | 
 | Find Three Largest Numbers            | 🟢               | Arrays              | [CODE](src/Easy/FindThreeLargestNumbers)                             | 
+| Bubble Sort                           | 🟢               | Arrays              | [CODE](src/Easy/BubbleSort)                                          | 
