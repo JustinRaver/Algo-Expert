@@ -22,3 +22,4 @@ A place to keep track of my unique solutions and encourage future learning and r
 | Branch Sums                           | 🟢               | BST                 | [CODE](src/Easy/BranchSums)                                          | 
 | Node Depths                           | 🟢               | BST                 | [CODE](src/Easy/NodeDepths)                                          | 
 | Depth-first Search                    | 🟢               | BST/DFS             | [CODE](src/Easy/DepthFirstSearch)                                    | 
+| Minimum Waiting Time                  | 🟢               | Arrays              | [CODE](src/Easy/MinimumWaitingTime)                                  | 
