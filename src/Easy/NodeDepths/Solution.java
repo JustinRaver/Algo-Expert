@@ -14,14 +14,14 @@ public class Solution {
      */
     public static int nodeDepths(BinaryTree root) {
         // Write your code here.
-        return getNodeDepthSum(root,0);
+        return getNodeDepthSum(root, 0);
     }
 
-    public static int getNodeDepthSum(BinaryTree root, int level){
-        if(root == null){
+    public static int getNodeDepthSum(BinaryTree root, int level) {
+        if (root == null) {
             return 0;
         }
-        return level + getNodeDepthSum(root.left,level+1) + getNodeDepthSum(root.right, level+1);
+        return level + getNodeDepthSum(root.left, level + 1) + getNodeDepthSum(root.right, level + 1);
     }
 
     static class BinaryTree {

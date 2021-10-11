@@ -17,15 +17,15 @@ public class Solution {
         BST node = tree;
         int closest = tree.value;
 
-        while(node != null){
-            if(Math.abs(node.value-target) < Math.abs(closest-target)){
+        while (node != null) {
+            if (Math.abs(node.value - target) < Math.abs(closest - target)) {
                 closest = node.value;
             }
-            if(node.value > target){
+            if (node.value > target) {
                 node = node.left;
-            }else if(node.value < target){
+            } else if (node.value < target) {
                 node = node.right;
-            }else{
+            } else {
                 return node.value;
             }
         }

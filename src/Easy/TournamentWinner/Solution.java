@@ -30,25 +30,25 @@ public class Solution {
         // [homeTeam, awayTeam]
         // 3 for win 0 for loses
         // 1 hometeam 0 awayteam
-        HashMap<String,Integer> map = new HashMap<>();
+        HashMap<String, Integer> map = new HashMap<>();
 
         int maxScore = 0;
         String winnerName = "";
 
-        for(int i=0;i<competitions.size();i++){
-            int winner = results.get(i) == 0 ? 1:0;
+        for (int i = 0; i < competitions.size(); i++) {
+            int winner = results.get(i) == 0 ? 1 : 0;
 
             int score = 0;
             String roundWinner = competitions.get(i).get(winner);
 
-            if(map.containsKey(roundWinner)){
-                score = map.get(roundWinner)+3;
-            }else{
+            if (map.containsKey(roundWinner)) {
+                score = map.get(roundWinner) + 3;
+            } else {
                 score = 3;
             }
-            map.put(roundWinner,score);
+            map.put(roundWinner, score);
 
-            if(score > maxScore) {
+            if (score > maxScore) {
                 maxScore = score;
                 winnerName = roundWinner;
             }

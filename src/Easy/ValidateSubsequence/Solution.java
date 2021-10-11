@@ -16,9 +16,9 @@ public class Solution {
     public static boolean isValidSubsequence(List<Integer> array, List<Integer> sequence) {
         // Write your code here.
         int idx = 0;
-        for(Integer i:array){
-            if(idx == sequence.size()) break;
-            if(sequence.get(idx).equals(i)) idx++;
+        for (Integer i : array) {
+            if (idx == sequence.size()) break;
+            if (sequence.get(idx).equals(i)) idx++;
         }
         return idx == sequence.size();
     }

@@ -22,7 +22,7 @@ public class Solution {
         int waitingTime = 0;
         int sum = 0;
 
-        for(int query:queries){
+        for (int query : queries) {
             waitingTime += sum;
             sum += query;
         }

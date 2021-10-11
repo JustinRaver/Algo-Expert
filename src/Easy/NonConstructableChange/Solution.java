@@ -22,14 +22,14 @@ public class Solution {
         // the max amount of change we have made
         int maxChange = 0;
 
-        for(int coin:coins){
+        for (int coin : coins) {
             // if the current coin is greater than maxChange+1 we cannot create maxChange +1
-            if(coin > maxChange+1){
-                return maxChange+1;
+            if (coin > maxChange + 1) {
+                return maxChange + 1;
             }
             maxChange += coin;
         }
-        return maxChange+1;
+        return maxChange + 1;
     }
 
 }

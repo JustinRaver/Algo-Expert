@@ -16,10 +16,10 @@ public class Solution {
         // Write your code here.
         Set<Integer> set = new HashSet<>();
 
-        for (int num : array){
+        for (int num : array) {
             int match = targetSum - num;
             if (set.contains(match)) {
-                return new int[] {match, num};
+                return new int[]{match, num};
             } else {
                 set.add(num);
             }
