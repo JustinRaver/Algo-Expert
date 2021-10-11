@@ -32,3 +32,4 @@ A place to keep track of my unique solutions and encourage future learning and r
 | Find Three Largest Numbers            | 🟢               | Arrays              | [CODE](src/Easy/FindThreeLargestNumbers)                             | 
 | Bubble Sort                           | 🟢               | Arrays              | [CODE](src/Easy/BubbleSort)                                          | 
 | Insertion Sort                        | 🟢               | Arrays              | [CODE](src/Easy/InsertionSort)                                       | 
+| Selection Sort                        | 🟢               | Arrays              | [CODE](src/Easy/SelectionSort)                                       | 
