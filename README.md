@@ -24,3 +24,4 @@ A place to keep track of my unique solutions and encourage future learning and r
 | Depth-first Search                    | 🟢               | BST/DFS             | [CODE](src/Easy/DepthFirstSearch)                                    | 
 | Minimum Waiting Time                  | 🟢               | Arrays              | [CODE](src/Easy/MinimumWaitingTime)                                  | 
 | Class Photos                          | 🟢               | ArrayLists          | [CODE](src/Easy/ClassPhotos)                                         | 
+| Tandem Bicycle                        | 🟢               | Arrays              | [CODE](src/Easy/TandemBicycle)                                         | 
