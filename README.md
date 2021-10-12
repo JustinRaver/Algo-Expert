@@ -38,3 +38,4 @@ A place to keep track of my unique solutions and encourage future learning and r
 | Run-Length Encoding                   | 🟢               | Strings             | [CODE](src/Easy/RunLengthEncoding)                                   | 
 | Generate Document                     | 🟢               | Strings             | [CODE](src/Easy/GenerateDocument)                                    | 
 | First Non-Repeating Character         | 🟢               | Strings             | [CODE](src/Easy/FirstNonRepeatingCharacter)                          | 
+| Three Number Sum                      | 🔵               | Arrays              | [CODE](src/Medium/ThreeNumberSum)                                    | 
