@@ -34,3 +34,4 @@ A place to keep track of my unique solutions and encourage future learning and r
 | Insertion Sort                        | 🟢               | Arrays              | [CODE](src/Easy/InsertionSort)                                       | 
 | Selection Sort                        | 🟢               | Arrays              | [CODE](src/Easy/SelectionSort)                                       | 
 | Palindrome Check                      | 🟢               | Arrays              | [CODE](src/Easy/PalindromeCheck)                                     | 
+| Caesar Cipher Encryptor               | 🟢               | Arrays              | [CODE](src/Easy/CaesarCipherEncryptor)                               | 
