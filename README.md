@@ -19,19 +19,20 @@ A place to keep track of my unique solutions and encourage future learning and r
 | Tournament Winner                     | 🟢               | ArrayLists          | [CODE](src/Easy/TournamentWinner)                                    | 
 | Non-Constructable Change              | 🟢               | Arrays              | [CODE](src/Easy/NonConstructableChange)                              | 
 | Closest Value In BST                  | 🟢               | BST                 | [CODE](src/Easy/ClosestValueInBST)                                   | 
-| Branch Sums                           | 🟢               | BST                 | [CODE](src/Easy/BranchSums)                                          | 
-| Node Depths                           | 🟢               | BST                 | [CODE](src/Easy/NodeDepths)                                          | 
-| Depth-first Search                    | 🟢               | BST/DFS             | [CODE](src/Easy/DepthFirstSearch)                                    | 
-| Minimum Waiting Time                  | 🟢               | Arrays              | [CODE](src/Easy/MinimumWaitingTime)                                  | 
-| Class Photos                          | 🟢               | ArrayLists          | [CODE](src/Easy/ClassPhotos)                                         | 
-| Tandem Bicycle                        | 🟢               | Arrays              | [CODE](src/Easy/TandemBicycle)                                       | 
-| Remove Duplicates From Linked List    | 🟢               | Linked List         | [CODE](src/Easy/RemoveDuplicatesFromLinkedList)                      | 
+| Branch Sums                           | 🟢               | Binary Trees        | [CODE](src/Easy/BranchSums)                                          | 
+| Node Depths                           | 🟢               | Binary Trees        | [CODE](src/Easy/NodeDepths)                                          | 
+| Depth-first Search                    | 🟢               | Graphs/DFS          | [CODE](src/Easy/DepthFirstSearch)                                    | 
+| Minimum Waiting Time                  | 🟢               | Greedy Algorithms   | [CODE](src/Easy/MinimumWaitingTime)                                  | 
+| Class Photos                          | 🟢               | Greedy Algorithms   | [CODE](src/Easy/ClassPhotos)                                         | 
+| Tandem Bicycle                        | 🟢               | Greedy Algorithms   | [CODE](src/Easy/TandemBicycle)                                       | 
+| Remove Duplicates From Linked List    | 🟢               | Linked Lists        | [CODE](src/Easy/RemoveDuplicatesFromLinkedList)                      | 
 | Get Nth Fibonacci                     | 🟢               | Recursion           | [CODE](src/Easy/GetNthFibonacci)                                     | 
 | Product Sum                           | 🟢               | Recursion           | [CODE](src/Easy/ProductSum)                                          | 
-| Binary Search                         | 🟢               | Binary Search       | [CODE](src/Easy/BinarySearch)                                        | 
-| Find Three Largest Numbers            | 🟢               | Arrays              | [CODE](src/Easy/FindThreeLargestNumbers)                             | 
-| Bubble Sort                           | 🟢               | Arrays              | [CODE](src/Easy/BubbleSort)                                          | 
-| Insertion Sort                        | 🟢               | Arrays              | [CODE](src/Easy/InsertionSort)                                       | 
-| Selection Sort                        | 🟢               | Arrays              | [CODE](src/Easy/SelectionSort)                                       | 
-| Palindrome Check                      | 🟢               | Arrays              | [CODE](src/Easy/PalindromeCheck)                                     | 
-| Caesar Cipher Encryptor               | 🟢               | Arrays              | [CODE](src/Easy/CaesarCipherEncryptor)                               | 
+| Binary Search                         | 🟢               | Searching           | [CODE](src/Easy/BinarySearch)                                        | 
+| Find Three Largest Numbers            | 🟢               | Searching           | [CODE](src/Easy/FindThreeLargestNumbers)                             | 
+| Bubble Sort                           | 🟢               | Sorting             | [CODE](src/Easy/BubbleSort)                                          | 
+| Insertion Sort                        | 🟢               | Sorting             | [CODE](src/Easy/InsertionSort)                                       | 
+| Selection Sort                        | 🟢               | Sorting             | [CODE](src/Easy/SelectionSort)                                       | 
+| Palindrome Check                      | 🟢               | Strings             | [CODE](src/Easy/PalindromeCheck)                                     | 
+| Caesar Cipher Encryptor               | 🟢               | Strings             | [CODE](src/Easy/CaesarCipherEncryptor)                               | 
+| Run-Length Encoding                   | 🟢               | Strings             | [CODE](src/Easy/RunLengthEncoding)                                   | 
