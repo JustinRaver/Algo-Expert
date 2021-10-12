@@ -36,3 +36,5 @@ A place to keep track of my unique solutions and encourage future learning and r
 | Palindrome Check                      | 🟢               | Strings             | [CODE](src/Easy/PalindromeCheck)                                     | 
 | Caesar Cipher Encryptor               | 🟢               | Strings             | [CODE](src/Easy/CaesarCipherEncryptor)                               | 
 | Run-Length Encoding                   | 🟢               | Strings             | [CODE](src/Easy/RunLengthEncoding)                                   | 
+| Generate Document                     | 🟢               | Strings             | [CODE](src/Easy/GenerateDocument)                                    | 
+| First Non-Repeating Character         | 🟢               | Strings             | [CODE](src/Easy/FirstNonRepeatingCharacter)                          | 
