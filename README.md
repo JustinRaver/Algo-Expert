@@ -39,3 +39,4 @@ A place to keep track of my unique solutions and encourage future learning and r
 | Generate Document                     | 🟢               | Strings             | [CODE](src/Easy/GenerateDocument)                                    | 
 | First Non-Repeating Character         | 🟢               | Strings             | [CODE](src/Easy/FirstNonRepeatingCharacter)                          | 
 | Three Number Sum                      | 🔵               | Arrays              | [CODE](src/Medium/ThreeNumberSum)                                    | 
+| Smallest Difference                   | 🔵               | Arrays              | [CODE](src/Medium/SmallestDifference)                                | 
