@@ -43,3 +43,4 @@ A place to keep track of my unique solutions and encourage future learning and r
 | Move Element To End                   | 🔵               | Arrays              | [CODE](src/Medium/MoveElementToEnd)                                  | 
 | Monotonic Array                       | 🔵               | Arrays              | [CODE](src/Medium/MonotonicArray)                                    | 
 | Array of Products                     | 🔵               | Arrays              | [CODE](src/Medium/ArrayOfProducts)                                   | 
+| First Duplicate Value                 | 🔵               | Arrays              | [CODE](src/Medium/FirstDuplicateValue)                                   | 
