@@ -40,4 +40,6 @@ A place to keep track of my unique solutions and encourage future learning and r
 | First Non-Repeating Character         | 🟢               | Strings             | [CODE](src/Easy/FirstNonRepeatingCharacter)                          | 
 | Three Number Sum                      | 🔵               | Arrays              | [CODE](src/Medium/ThreeNumberSum)                                    | 
 | Smallest Difference                   | 🔵               | Arrays              | [CODE](src/Medium/SmallestDifference)                                | 
-| Move Element To End                   | 🔵               | Arrays              | [CODE](src/Medium/MoveElementToEnd)                                | 
+| Move Element To End                   | 🔵               | Arrays              | [CODE](src/Medium/MoveElementToEnd)                                  | 
+| Monotonic Array                       | 🔵               | Arrays              | [CODE](src/Medium/MonotonicArray)                                    | 
+| Array of Products                     | 🔵               | Arrays              | [CODE](src/Medium/ArrayOfProducts)                                   | 
